@@ -28,6 +28,6 @@
   </platform>
 
   <engines>
-    <engine name="cordova" version=">=4.0.0" />
+    <engine name="cordova-android" version=">=4.0.0" />
   </engines>
 </plugin>
